@@ -1,6 +1,6 @@
 import React from 'react'
-import Navbar from '../component/navbar'
-import Contact from '../component/contact'
+import Navbar from '../component/Navbar.jsx'
+import Contact from '../component/Contact.jsx'
 
 function Contacts() {
   return (
